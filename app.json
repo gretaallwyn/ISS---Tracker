@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "iss-tracker-app-80",
+    "slug": "snack-d16d13d4-a6b4-4ebf-9160-b674ee726423",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "My Snack copy-  ISS Tracker App- Greta Allwyn -Whitehat Jr"
+  }
+}
